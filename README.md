@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github-readme-stats.vercel.app/api?count_private=true&username=artiely&show_icons=true)
+<--![](https://github-readme-stats.vercel.app/api?count_private=true&username=artiely&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=artiely&layout=compact&&langs_count=40&hide=html)
 
@@ -20,4 +20,4 @@
 <a href="https://github.com/xubohuah/xubohuah.github.io.git">
   <!-- 主页卡片之「置顶仓库」 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artiely&repo=artiely.github.io" alt="artiely blog" />
-</a>
+</a>-->
