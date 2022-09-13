@@ -1,9 +1,5 @@
-### Hi there 👋
 
-<!--
-**xubohuah/xubohuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, this is xubohua 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![](https://github-readme-stats.vercel.app/api?count_private=true&username=artiely&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=artiely&layout=compact&&langs_count=40&hide=html)
+
+![npm stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fartiely%2Fnpm-statistics%2Fmaster%2Fstats.json)
+
+
+<a href="https://github.com/xubohuah/xubohuah.github.io.git">
+  <!-- 主页卡片之「置顶仓库」 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artiely&repo=artiely.github.io" alt="artiely blog" />
+</a>
